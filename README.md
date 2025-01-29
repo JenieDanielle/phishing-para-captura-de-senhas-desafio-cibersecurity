@@ -21,6 +21,6 @@ O objetivo desse desafio é entender o funcionamento de ferramentas de engenhari
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./saida_com_captura_de_credenciais.png "Optional title")
 
 Esse projeto foi baseado no repositório do professor Cassiano e tem como objetivo educativo demonstrar o funcionamento de ataques de phishing.
